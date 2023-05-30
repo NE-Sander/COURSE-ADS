@@ -1,9 +1,9 @@
 ## ◻️ Laboratory and Progamming 2 
 ### 📌 Summary *(ONLY MY CHALLENGE HOMEWORK)*
  
- * 🌄 ➜ [Stage 1]() - Labyrinth solving algorithm
- * 🔎 ➜ [Stage 2]() - Search and assortment list for political parties
- * 📋 ➜ [Stage 3]() - Static lists which uses recursive method
+ * 🌄 ➜ [Stage 1](https://github.com/NE-Sander/Course-ADS/tree/main/2023/Laboratory%20and%20Progamming%202/Etapa_1_Labirinto/src) - Labyrinth solving algorithm
+ * 🔎 ➜ [Stage 2](https://github.com/NE-Sander/Course-ADS/tree/main/2023/Laboratory%20and%20Progamming%202/Etapa_2_Pesquisa_e_Ordenacao/src) - Search and assortment list for political parties
+ * 📋 ➜ [Stage 3](https://github.com/NE-Sander/Course-ADS/tree/main/2023/Laboratory%20and%20Progamming%202/Etapa_3_Listas_Estaticas/src) - Static lists which uses recursive method (RE
  * ⬜️ ➜ [Stage 4]() - (CURRENT IN PROGRESS)
 
 
