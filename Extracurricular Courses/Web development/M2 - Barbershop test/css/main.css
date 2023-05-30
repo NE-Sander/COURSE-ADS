@@ -1,0 +1,16 @@
+html{
+    scroll-behavior: smooth;
+}
+
+button{
+    outline: none;
+    border: none;
+}
+
+.section contato{
+    overflow: hidden;
+}
+
+.hide{
+    display: none;
+}
