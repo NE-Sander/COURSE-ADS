@@ -8,7 +8,7 @@
     <img src="https://media.tenor.com/wpSo-8CrXqUAAAAi/loading-loading-forever.gif" width="10px"/>
 
 #
-* [Extracurricular Courses](https://github.com/NE-Sander/Analise-e-desenvolvimento/tree/main/Extracurricular%20Courses)
+* [Extracurricular Courses](https://github.com/NE-Sander/Course-ADS/tree/main/Extracurricular%20Courses)
 
 
 ##
