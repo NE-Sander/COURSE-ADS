@@ -2,8 +2,9 @@
 
 #### 📌 *All updates and programming progress from Unisinos college.*
 #
-* [2022](https://github.com/NE-Sander/Course-ADS/tree/main/2022) (1/6) ✔️
-* [2023](https://github.com/NE-Sander/Course-ADS/tree/main/2023)  (2/6) - CURRENT
+* [2022](https://github.com/NE-Sander/Course-ADS/tree/main/2022)  (1/6) - ✔️
+* [2023](https://github.com/NE-Sander/Course-ADS/tree/main/2023)  (2/6) - ✔️
+* [2023](https://github.com/NE-Sander/Course-ADS/tree/main/2023)  (3/6) - Current
 * Loading 
     <img src="https://media.tenor.com/wpSo-8CrXqUAAAAi/loading-loading-forever.gif" width="10px"/>
 
